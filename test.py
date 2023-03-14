@@ -1,1 +1,1 @@
-print(1+1)kk mm
+print(1+1)
