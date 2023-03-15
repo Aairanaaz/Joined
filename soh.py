@@ -1,9 +1,10 @@
-# hastag comment k lye..jo bhi line hashtag se start hoga uska koi kaam nh rhta h wo bs code clear krne k lye hota h
+a = 2
+b = 5
+print(a+b)
 
-print('Hello') # ye string type
-print(2) # ye int type
+a = '2'
+b = '5'
+print(a+b)
 
-# tm variable bhi bna skti h..uske lye bhi rules hota h lekin
-
-text = 'apple' # ye string tmhra text variable m store hogy ab tm isko direct print kr skti h
-print(text)
+# ye dono print ka alg alg value aayega..int normal math type kaam krta h..
+# aur string ko math nh pta..wo + se dono string ko add krdeta h direct
